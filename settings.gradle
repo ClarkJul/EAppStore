@@ -1,0 +1,6 @@
+rootProject.name='EAppStore'
+include ':app'
+include ':base'
+include ':network'
+include ':common'
+include ':download'
